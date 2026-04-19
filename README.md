@@ -2,7 +2,7 @@
 
 > **Project Work** — CdS Informatica per le Aziende Digitali (L-31)
 > Traccia PW 16 · Università Telematica Pegaso
-> Settori: Informatica (INF/01) · Ingegneria Economico-Gestionale (ING-IND/35)
+> Settori: Informatica (INF/01)
 
 ---
 
